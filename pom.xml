@@ -24,7 +24,7 @@
 
     <groupId>org.apache.seatunnel</groupId>
     <artifactId>seatunnel</artifactId>
-    <version>2.3.3-SNAPSHOT</version>
+    <version>2.3.2</version>
     <packaging>pom</packaging>
 
     <name>SeaTunnel :</name>
@@ -54,7 +54,7 @@
 
     <properties>
         <!--todo The classification is too confusing, reclassify by type-->
-        <revision>2.3.2-SNAPSHOT</revision>
+        <revision>2.3.2</revision>
         <seatunnel.config.shade.version>2.1.1</seatunnel.config.shade.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
